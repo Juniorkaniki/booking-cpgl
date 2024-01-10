@@ -1,0 +1,15 @@
+RewriteEngine on
+RewriteRule ^dashboard$ dashboard.php
+RewriteRule ^login$ index.php
+RewriteRule ^avenue$ avenue.php
+RewriteRule ^pays$ pays.php
+RewriteRule ^province$ provinces.php
+RewriteRule ^villes$ villes.php
+RewriteRule ^commune$ communes.php
+RewriteRule ^quartier$ quartier.php
+RewriteRule ^type_doc$ type_doc.php
+RewriteRule ^clients$ clients.php
+RewriteRule ^commandes$ commandes.php
+RewriteRule ^pcard$ pcard.php
+RewriteRule ^visa$ visa.php
+RewriteRule ^cpgl$ cpgl.php

@@ -1,0 +1,6 @@
+RewriteEngine on
+RewriteRule ^dashboard$ index.php
+RewriteRule ^login$ index.php
+RewriteRule ^profil$ profil.php
+RewriteRule ^docs$ docs.php
+RewriteRule ^com$ com.php
